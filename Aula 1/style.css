@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#v1{
+
+    width: 33vw;
+    height: 50vh;
+    border-color: blue;
+    border-width: 1px;;
+    border-style: solid;
+    margin: 2px 2px 2px 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+
+}
+
+#v2{
+    
+    margin: 2px 2px 2px 2px;
+    width: 33vw;
+    height: 50vh;
+    border-color: blue;
+    border-width: 1px;;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+
+#v3{
+    width: 33vw;
+    height: 50vh;
+    border-color: blue;
+    border-width: 1px;;
+    border-style: solid;
+    margin: 2px 2px 2px 2px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+
+
+}
